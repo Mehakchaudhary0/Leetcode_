@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
