@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -40,6 +42,7 @@
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
