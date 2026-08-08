@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
