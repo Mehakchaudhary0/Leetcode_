@@ -33,6 +33,7 @@
 | [0015-3sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
