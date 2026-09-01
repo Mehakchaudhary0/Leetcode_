@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
