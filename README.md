@@ -96,4 +96,20 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
