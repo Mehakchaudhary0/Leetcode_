@@ -19,6 +19,7 @@
 | [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -33,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 ## Sliding Window
 |  |
 | ------- |
