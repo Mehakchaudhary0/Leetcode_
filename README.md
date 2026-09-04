@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0104-maximum-depth-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
