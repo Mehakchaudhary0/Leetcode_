@@ -13,6 +13,7 @@
 | [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
