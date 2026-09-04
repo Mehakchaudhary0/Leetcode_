@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
+| [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
+| [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 ## Tree
 |  |
 | ------- |
