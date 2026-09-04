@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
@@ -119,9 +120,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
