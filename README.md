@@ -41,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -166,4 +169,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
