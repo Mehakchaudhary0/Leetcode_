@@ -184,4 +184,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
