@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@
 | [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Divide and Conquer
 |  |
@@ -122,6 +125,7 @@
 | [0134-gas-station](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
 | ------- |
@@ -176,4 +180,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
