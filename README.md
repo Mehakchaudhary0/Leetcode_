@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
@@ -201,4 +202,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0620-not-boring-movies) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
