@@ -103,6 +103,7 @@
 | [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -171,6 +172,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
 | [3870-count-commas-in-range](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3871-count-commas-in-range-ii) |
 ## String Matching
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
