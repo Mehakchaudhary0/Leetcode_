@@ -212,9 +212,14 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
