@@ -86,6 +86,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0013-roman-to-integer](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3871-count-commas-in-range-ii) |
 ## String Matching
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
