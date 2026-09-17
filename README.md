@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
@@ -42,6 +43,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting
 |  |
@@ -130,6 +133,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |
 | ------- |
