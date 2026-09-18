@@ -44,6 +44,7 @@
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Divide and Conquer
 |  |
@@ -110,6 +112,7 @@
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0330-patching-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0455-assign-cookies) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Tree
 |  |
 | ------- |
