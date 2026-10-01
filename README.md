@@ -30,6 +30,7 @@
 | [0739-daily-temperatures](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0739-daily-temperatures) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Greedy
 |  |
 | ------- |
