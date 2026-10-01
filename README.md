@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0283-move-zeroes) |
@@ -128,6 +129,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
