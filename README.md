@@ -51,6 +51,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [1652-defuse-the-bomb](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
