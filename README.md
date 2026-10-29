@@ -32,6 +32,7 @@
 | [1652-defuse-the-bomb](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 | [3975-filter-occupied-intervals](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
@@ -50,6 +51,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -151,6 +153,7 @@
 | [1652-defuse-the-bomb](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
