@@ -48,6 +48,7 @@
 | [0525-contiguous-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0525-contiguous-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## Two Pointers
@@ -101,6 +102,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3046-split-the-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/3046-split-the-array) |
 ## String
 |  |
@@ -117,6 +119,7 @@
 | [0412-fizz-buzz](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -144,6 +147,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Greedy
 |  |
