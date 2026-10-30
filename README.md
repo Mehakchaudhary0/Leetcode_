@@ -266,9 +266,11 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
