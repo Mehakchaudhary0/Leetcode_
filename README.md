@@ -62,6 +62,7 @@
 | [0015-3sum](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0189-rotate-array) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mehakchaudhary0/Leetcode_/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
